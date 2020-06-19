@@ -6,7 +6,7 @@ CalcIO is the java application that work on top of Arity.jar. This is used to pr
 ### Requirements : java 8
 
 
-''' java -jar Calc.IO.jar <args>'''
+''' java -jar Calc.IO.jar \<args\>'''
 
 ### Arguments
 -s : Execute single line formula. like '''a+b'''. Later get input for a and b\
