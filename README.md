@@ -1,7 +1,7 @@
 # Calc.IO
-A Mathamatical tool for calculation.
+A Mathematical tool for calculation.
 
-CalcIO is the java application that work on top of Arity.jar. This is used to process small mathamatical task snd operation. It support \
+CalcIO is the java application that works on top of Arity.jar. It is used for process small mathematical task snd operation. It support root operation, trigonometry and logarithmic
 
 ### Requirements : java 8
 
